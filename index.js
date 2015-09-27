@@ -10,7 +10,7 @@ var conditionals = require('postcss-conditionals')
 var customMedia = require("postcss-custom-media")
 
 // css to be processed
-var css = fs.readFileSync("src/tachyons-background-size.css", "utf8")
+var css = fs.readFileSync("src/gradients.css", "utf8")
 
 // process css
 var output = postcss([autoprefixer])
