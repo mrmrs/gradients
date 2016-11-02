@@ -1,6 +1,6 @@
 {
   "name": "gradients",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "style": "gradients.css",
   "homepage": "http://github.com/mrmrs/gradients",
   "description": "CSS module for setting gradients with single purpose classes.",
